@@ -1,0 +1,1 @@
+import{N as e,a as s,b as c}from"./index-75e60951.js";const t={},o={class:"bg-white w-full py-10 px-4 md:px-16 shadow-[0_5px_20px_rgba(0,0,0,0.3)] mx-4"};function r(_,a){return s(),c("div",o," fdsfdsfds")}const d=e(t,[["render",r]]);export{d as default};
