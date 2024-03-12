@@ -1,1 +1,0 @@
-import{d as e,o as t,e as a,b as o,w as s,f as c,g as n}from"./index-D3TSFFz8.js";const r={class:"tw-flex tw-flex-col tw-justify-center tw-items-center"},f=e({__name:"index",setup(_){return(i,l)=>(t(),a("div",r,[o(n,{color:"primary900",to:"/ant"},{default:s(()=>[c("بازی ANT")]),_:1})]))}});export{f as default};
